@@ -2,7 +2,7 @@ import cv2
 import os
 import sys
 
-directorio_imagenes = "img"  # valor por defecto
+directorio_imagenes = "frames"  # valor por defecto
 
 nombre_video_salida = 'video_desplazamiento.avi'
 fps = 24
